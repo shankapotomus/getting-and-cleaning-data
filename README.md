@@ -2,6 +2,7 @@
 Course Project
 
 Vrishank Subramani
+
 Overview of project
 
 This project and script serves to demonstrate the collection and cleaning of a  data set that can be used for analysis. A full description of the data used in this project can be found at The UCI Machine Learning Repository.
